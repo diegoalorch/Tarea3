@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Passion+One&family=Playball&display=swap');
 .header{
     background-image: url("../imagenes/fondito8.jpg");
-    background-color:black;
     width: auto;
     height: 370px;
 }
@@ -74,7 +73,6 @@
     height: 450px;
     width: 400px;
     background-image: url("../imagenes/fondito2.jpg");
-    background-color: cornflowerblue;
 }
 .info{
     margin-top: 30px;
@@ -90,54 +88,50 @@
     height: 350px;
     width: 450px;
     background-image: url("../imagenes/fondito10.jpg");
-    background-color: blueviolet;
 }
 .logoDinamico{
     width: 35px;
     height: 35px;
     background-image: url("../imagenes/logitoDi.png");
-    background-color: aqua;
 }
 .logoCompa{
     width: 35px;
     height: 35px;
     background-image: url("../imagenes/logitoC.png");
-    background-color: aqua;
 }
 .logofacilidad{
     width: 35px;
     height: 35px;
     background-image: url("../imagenes/logitoF.png");
-    background-color: aqua;
 }
 .logoDistri{
     margin-right: 225px;
     width: 35px;
     height: 35px;
     background-image: url("../imagenes/logitoD.jpg");
-    background-color: aqua;
 }
 .rectangulo{
     width: 100%;
-    height: 150px;
-    opacity: 0.85;
+    height: 145px;
+    opacity: 0.87;
+    text-align: center;
     background-color: rgb(7, 7, 7);
 }
 .año{
-    margin-top: 50px;
-    margin-left: 210px;
+    margin-top: 18px;
+    margin-left: 180px;
 }
 .proyectos{
-    margin-top: 50px;
-    margin-left: 250px;
+    margin-top: 18px;
+    margin-left: 180px;
 }
 .equipo{
-    margin-top: 50px;
-    margin-left: 250px;
+    margin-top: 18px;
+    margin-left: 180px;
 }
 .programadores{
-    margin-top: 50px;
-    margin-left: 250px;
+    margin-top: 18px;
+    margin-left: 180px;
 }
 .final{
     width: 100%;
@@ -147,4 +141,22 @@
 }
 .finish{
     margin-top: 90px;
+    text-align: center;
+}
+.icon{
+    font-size: 40px;
+     color: rgb(52, 230, 46);
+}
+.Empresa{
+    width: 135px;
+    height: 200px;
+    margin-top: -158px;
+    background-image: url("../imagenes/logitoEmpresa.png");
+}
+.lap{
+    width: 319px;
+    height: 200px;
+    margin-top: -200px;
+    float: right;
+    background-image: url("../imagenes/logitoLaptop.png");
 }
